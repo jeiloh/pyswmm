@@ -1,6 +1,9 @@
 # Compiled python files
 *.py[oc]
 
+# jupyter-notebooks
+.ipynb_checkpoints
+
 # gedit files
 *~
 
